@@ -7,7 +7,7 @@ import plotly.express as px
 # Load data (Replace with your actual file or database)
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\pc\Desktop\final data.csv")  # Change this to your actual data source
+    df = pd.read_csv(r"C:\Users\pc\Desktop\Literacy_project\data\final data.csv")  # Change this to your actual data source
     return df
 
 df = load_data()
