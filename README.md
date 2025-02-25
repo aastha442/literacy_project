@@ -40,9 +40,9 @@ cd literacy_project
  
 
 <p align="center">
-  <img src="Screenshot1.png" width="45%">
-  <img src="Screenshot2.png" width="45%">
-  <img src="Screenshot3.png" width="45%">
+  <img src="Screenshot (1).png" width="45%">
+  <img src="Screenshot (2).png" width="45%">
+  <img src="Screenshot (3).png" width="45%">
 </p>
 
 
