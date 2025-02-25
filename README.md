@@ -35,6 +35,18 @@ cd literacy_project
 ```
 -INSTALL THE DEPENDENCIES 
 -RUN THE STREAMLIT DASHBOARD
+## 📸 Dashboard Preview
+
+ 
+
+<p align="center">
+  <img src="Screenshot1.png" width="45%">
+  <img src="Screenshot2.png" width="45%">
+  <img src="Screenshot3.png" width="45%">
+</p>
+
+
+
 ---
 ## 🛠️ Technologies Used
 
